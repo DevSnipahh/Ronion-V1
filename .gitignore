@@ -1,0 +1,11 @@
+.env
+*.json
+*.db
+*.sqlite
+*.sqlite3
+config/
+secrets/
+uploads/
+logs/
+cache/
+tmp/
